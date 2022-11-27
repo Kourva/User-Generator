@@ -1,0 +1,68 @@
+// Result example
+
+{
+   "results":[
+      {
+         "gender":"male",
+         "name":{
+            "title":"Mr",
+            "first":"Carter",
+            "last":"Day"
+         },
+         "location":{
+            "street":{
+               "number":2920,
+               "name":"Mcgowen St"
+            },
+            "city":"Toowoomba",
+            "state":"Queensland",
+            "country":"Australia",
+            "postcode":3039,
+            "coordinates":{
+               "latitude":"-89.8686",
+               "longitude":"-133.9726"
+            },
+            "timezone":{
+               "offset":"+2:00",
+               "description":"Kaliningrad, South Africa"
+            }
+         },
+         "email":"carter.day@example.com",
+         "login":{
+            "uuid":"23847d62-672d-42a2-8d4a-89db391deeb3",
+            "username":"goldenostrich553",
+            "password":"stalin",
+            "salt":"zBkYlPjU",
+            "md5":"1e9992493bc13fe73bfbf88d25242789",
+            "sha1":"11352523558a4719d4e3dce76a8bd7adf540bf9d",
+            "sha256":"d4e0a86b5a1447a4ea2beebe9d0b2e023538c79c74242a81ca807060a2937b0a"
+         },
+         "dob":{
+            "date":"1976-09-08T21:27:47.218Z",
+            "age":46
+         },
+         "registered":{
+            "date":"2019-06-09T11:57:35.689Z",
+            "age":3
+         },
+         "phone":"02-5088-8725",
+         "cell":"0480-963-364",
+         "id":{
+            "name":"TFN",
+            "value":"840121943"
+         },
+         "picture":{
+            "large":"https://randomuser.me/api/portraits/men/71.jpg",
+            "medium":"https://randomuser.me/api/portraits/med/men/71.jpg",
+            "thumbnail":"https://randomuser.me/api/portraits/thumb/men/71.jpg"
+         },
+         "nat":"AU"
+      }
+   ],
+   "info":{
+      "seed":"8558c422474f5c64",
+      "results":1,
+      "page":1,
+      "version":"1.4"
+   }
+}
