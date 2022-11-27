@@ -1,8 +1,8 @@
 # User-Generator
 
 Random user generator Telegram bot
-> fore more information check [RandomUser Website](https://randomuser.me/)
-
+> fore more information check [RandomUser Website](https://randomuser.me/)                               
+> example of response in **data.json**
 
 # Config
 **line 13** -> Your bot token from [BotFather](https://t.me/botfather)
