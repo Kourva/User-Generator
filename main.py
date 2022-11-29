@@ -2,7 +2,7 @@
 
 ## Random User Bot
 ## Get random user from telegram bot
-## GITHUB: https://github.com/MemeSec
+## GITHUB: https://github.com/Izolabela
 
 # Imports
 import requests
