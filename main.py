@@ -2,7 +2,7 @@
 
 ## Random User Bot
 ## Get random user from telegram bot
-## GITHUB: https://github.com/Kourva
+## GITHUB: https://github.com/kozyol
 
 # Imports
 import requests
