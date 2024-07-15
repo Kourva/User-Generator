@@ -17,7 +17,7 @@ pip install requests pytelegrambotapi
 ```
 + Clone repository
 ```bash
-git clone https://github.com/Kourva/User-Generator && cd User-Generator && chmod +x install.sh
+git clone https://github.com/kozyol/User-Generator && cd User-Generator && chmod +x install.sh
 ```
 + Run the bot
 ```bash
